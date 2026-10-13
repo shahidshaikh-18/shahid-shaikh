@@ -11,7 +11,7 @@ I'm passionate about cybersecurity, ethical hacking, and identifying vulnerabili
 - 🎯 Career Goal: **VAPT Analyst / Penetration Tester**
 - 🎓 Education: **M.Sc. Computer Applications (Pursuing)**
 - 💻 Interested in **Vulnerability Assessment, Security Testing & Ethical Hacking**
-- 📫 Email: **YOUR_EMAIL@example.com**
+- 📫 Email: **ashahid.shk@gmail.com**
 
 ---
 
@@ -50,7 +50,7 @@ I'm passionate about cybersecurity, ethical hacking, and identifying vulnerabili
   <a href="https://github.com/shahidshaikh-18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/abdul-shahid-shaikh-02068b417">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
